@@ -1,0 +1,40 @@
+@charset "utf-8";
+#container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3F3F3F;
+}
+header {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFE384;
+    height: 93px;
+}
+
+nav {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #B5B5B5;
+}
+h1 {
+    text-align: center;
+}
+
+main {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFD08D;
+}
+footer {
+    color: #000000;
+    clear: both;
+    float: none;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFE384;
+}
