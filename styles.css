@@ -3,18 +3,23 @@
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #3F3F3F;
+    background-color: #FFFFFF;
     padding-top: 29px;
     padding-right: 4px;
     padding-bottom: 29px;
     padding-left: 2px;
 }
+body {
+    background-color: #A6A6A6;
+}
+
+
 header {
     width: 761px;
     margin-left: auto;
     margin-right: auto;
     height: 93px;
-    background-image: url(media/optimize-field-sales-836428-edited.png);
+    background-image: url(media/Untitled-1.jpg);
 }
 
 nav {
@@ -25,7 +30,13 @@ nav {
     color: #08263F;
 }
 h1 {
+    background-color: #FFFFFF;
+    width: 304px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    padding-top: 35px;
 }
 
 main {
@@ -53,4 +64,96 @@ footer {
 .center {
     margin-left: auto;
     margin-right: auto;
+}
+nav ul li {
+    width: 82px;
+    clear: both;
+    list-style-type: none;
+    vertical-align: baseline;
+    border-width: medium;
+    border-radius: 26px;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    text-align: center;
+}
+nav ul  {
+    width: 750px;
+    clear: both;
+    list-style-type: none;
+    vertical-align: baseline;
+    border-width: medium;
+    border-radius: 26px;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    text-align: center;
+}
+a:link {
+    color: #4396C0;
+    width: 82px;
+    background-color: #FFFFFF;
+    clear: both;
+    list-style-type: none;
+    vertical-align: baseline;
+    border-radius: 26px;
+    border-width: medium;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    text-align: center;
+}
+a:visited {
+    color: #2A83CC;
+    width: 82px;
+    background-color: #FFFFFF;
+    clear: both;
+    list-style-type: none;
+    vertical-align: baseline;
+    border-radius: 26px;
+    border-width: medium;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    text-align: center;
+}
+a:hover {
+    color: #FFFFFF;
+    width: 82px;
+    background-color: #282E31;
+    clear: both;
+    list-style-type: none;
+    vertical-align: baseline;
+    border-radius: 26px;
+    border-width: medium;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    text-align: center;
+}
+a:active {
+    color: #FFF8BB;
+    width: 82px;
+    background-color: #3A2929;
+    clear: both;
+    list-style-type: none;
+    vertical-align: baseline;
+    border-radius: 26px;
+    border-width: medium;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    text-align: center;
 }
