@@ -40,7 +40,7 @@ h1 {
 }
 
 main {
-    width: 800px;
+    width: 751px;
     margin-left: auto;
     margin-right: auto;
     color: #FFFFFF;
@@ -51,22 +51,24 @@ main {
     padding-bottom: 5px;
     padding-left: 5px;
     text-align: center;
+    margin-bottom: 8px;
 }
 footer {
     color: #000000;
-    clear: both;
     float: none;
-    width: 800px;
+    width: 764px;
     margin-left: auto;
     margin-right: auto;
     background-color: #81ABDB;
+    height: 47px;
+    padding-top: 17px;
 }
 .center {
     margin-left: auto;
     margin-right: auto;
 }
 nav ul li {
-    width: 82px;
+    width: 100px;
     clear: both;
     list-style-type: none;
     vertical-align: baseline;
@@ -78,9 +80,21 @@ nav ul li {
     margin-bottom: 3px;
     margin-left: 3px;
     text-align: center;
+    padding-top: 2px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 2px;
 }
+.footercolom {
+    width: 240px;
+    margin-left: 5px;
+    margin-right: 5px;
+    float: left;
+    background-color: #FFFFFF;
+}
+
 nav ul  {
-    width: 750px;
+    width: 737px;
     clear: both;
     list-style-type: none;
     vertical-align: baseline;
@@ -156,4 +170,13 @@ a:active {
     margin-bottom: 3px;
     margin-left: 3px;
     text-align: center;
+}
+.leftheaderimg {
+    float: left;
+}
+.rightheaderimg {
+    float: right;
+    clear: both;
+    margin-right: 2px;
+    margin-top: -89px;
 }
